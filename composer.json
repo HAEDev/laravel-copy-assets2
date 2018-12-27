@@ -1,0 +1,20 @@
+{
+    "name": "HAEDev/laravel-copy-assets",
+    "description": "Copy libraries from composer vendor folder to public folder",
+    "authors": [
+        {
+            "name": "Trinh Nguyen",
+            "email": "nt@winged.info",
+            "homepage": "http://winged.info"
+        }
+    ],
+    "homepage": "https://github.com/HAEDev/laravel-copy-assets",
+    "require": {
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "HAEDev\\": "src/"
+        }
+    }
+}
