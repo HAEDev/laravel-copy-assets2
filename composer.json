@@ -1,9 +1,9 @@
 {
-    "name": "haedev/laravel-copy-assets2",
-    "exportName": "haedev/laravel-copy-assets2",
+    "name": "haedev/laravel-copy-assets",
+    "exportName": "haedev/laravel-copy-assets",
     "repository": {
       "type": "git",
-      "url": "https://github.com/haedev/laravel-copy-assets2.git"
+      "url": "https://github.com/haedev/laravel-copy-assets.git"
     },
     "description": "Copy libraries from composer vendor folder to public folder",
     "authors": [
